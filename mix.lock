@@ -1,0 +1,2 @@
+[ "execjs": {:git, "git://github.com/devinus/execjs.git", "08795982bc8f4068421ff33f4d8ec18e2bf6e8d0", []},
+  "jazz": {:git, "git://github.com/meh/jazz.git", "daa9bd04aed744efc51a048fd7527c4733832ad9", []} ]
