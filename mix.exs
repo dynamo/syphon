@@ -2,7 +2,7 @@ defmodule Syphon.Mixfile do
   use Mix.Project
 
   def project do
-    [ app: :handlebars,
+    [ app: :syphon,
       version: "0.0.1",
       elixir: "~> 0.11.0",
       deps: deps ]
